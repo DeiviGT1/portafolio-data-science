@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/index.css')}}?v={{ version }}">
+  <title>Document</title>
+</head>
+<body>
+  <h1>Datos</h1>
+  <main>
+  <div id='main'></div>
+  <script>
+    var datos = '{{resultados | tojson}}'
+    datos = JSON.parse(datos)["resultados"]
+    datos = Object.fromEntries(
+      Object.entries(datos).sort((a, b) => b[1].partidos_totales - a[1].partidos_totales || b[1].resultados.partidos_ganados - a[1].resultados.partidos_ganados || b[1].resultados.partidos_empatados - a[1].resultados.partidos_empatados)
+    );
+
+    let collection = document.getElementById('main')
+    
+    for (var equipo in datos) {
+      
+      let divContainer = document.createElement('div')
+      divContainer.className = 'partido'
+      let divResultContainer = document.createElement('div')
+      divResultContainer.className = 'resultados'
+      let divRow = document.createElement('div')
+      divRow.className = 'team-data'
+      
+      let equipoP = document.createElement('p')
+      let elementPganados = document.createElement('p')
+      let elementPperdidos = document.createElement('p')
+      let elementPempatados = document.createElement('p')
+      let elementPtotal = document.createElement('p')
+      let elementImg = document.createElement('img')
+
+      equipoP.innerHTML = equipo
+      elementPganados.innerHTML = `${equipo} ha ganado ${datos[equipo]["resultados"]["partidos_ganados"]} partidos`
+      elementPperdidos.innerHTML += `${equipo} ha perdido ${datos[equipo]["resultados"]["partidos_perdidos"]} partidos`
+      elementPempatados.innerHTML += `${equipo} ha empatado ${datos[equipo]["resultados"]["partidos_empatados"]} partidos`
+      elementPtotal.innerHTML += `La cantidad de partidos totales son: ${datos[equipo]["partidos_totales"]}`
+      elementImg.src = "../static/assets/equipos-de-futbol/" + datos[equipo]["escudo"]
+      
+      divResultContainer.appendChild(elementPganados)
+      divResultContainer.appendChild(elementPperdidos)
+      divResultContainer.appendChild(elementPempatados)
+
+      divRow.appendChild(equipoP)
+      divRow.appendChild(elementImg)
+      divRow.appendChild(elementPtotal)
+      divContainer.appendChild(divRow)
+      
+      divContainer.appendChild(divResultContainer)
+
+      
+
+      collection.appendChild(divContainer)
+    }
+    
+
+    
+    
+  </script>
+  </main>
+</body>
+</html>

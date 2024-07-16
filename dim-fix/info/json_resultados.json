@@ -1,0 +1,194 @@
+{
+  "Resultados": [
+    {
+      "fecha": "Dom., 16 de Abr.",
+      "rival": "Bucaramanga",
+      "tipo": "visitante",
+      "resultado_global": "1 - 2",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Independiente Medell\u00edn",
+      "penaltis": false
+    },
+    {
+      "fecha": "Mi\u00e9., 12 de Abr.",
+      "rival": "Deportivo Cali",
+      "tipo": "local",
+      "resultado_global": "3 - 0",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Independiente Medell\u00edn",
+      "penaltis": false
+    },
+    {
+      "fecha": "S\u00e1b., 8 de Abr.",
+      "rival": "Millonarios",
+      "tipo": "visitante",
+      "resultado_global": "2 - 1",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Millonarios",
+      "penaltis": false
+    },
+    {
+      "fecha": "Mar., 4 de Abr.",
+      "rival": "Internacional",
+      "tipo": "local",
+      "resultado_global": "1 - 1",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Empate",
+      "penaltis": false
+    },
+    {
+      "fecha": "S\u00e1b., 1 de Abr.",
+      "rival": "Deportes Tolima",
+      "tipo": "local",
+      "resultado_global": "1 - 1",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Empate",
+      "penaltis": false
+    },
+    {
+      "fecha": "S\u00e1b., 25 de Mar.",
+      "rival": "Atl\u00e9tico Nacional",
+      "tipo": "visitante",
+      "resultado_global": "1 - 1",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Empate",
+      "penaltis": false
+    },
+    {
+      "fecha": "Dom., 19 de Mar.",
+      "rival": "Jaguares de C\u00f3rdoba",
+      "tipo": "local",
+      "resultado_global": "1 - 0",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Independiente Medell\u00edn",
+      "penaltis": false
+    },
+    {
+      "fecha": "Mi\u00e9., 15 de Mar.",
+      "rival": "Magallanes",
+      "tipo": "local",
+      "resultado_global": "3 - 1",
+      "resultado_ida": "1 - 1",
+      "resultado_vuelta": "2 - 0",
+      "ganador": "Independiente Medell\u00edn",
+      "penaltis": false
+    },
+    {
+      "fecha": "S\u00e1b., 11 de Mar.",
+      "rival": "Boyac\u00e1 Chic\u00f3",
+      "tipo": "visitante",
+      "resultado_global": "2 - 0",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Boyac\u00e1 Chic\u00f3",
+      "penaltis": false
+    },
+    {
+      "fecha": "Mi\u00e9., 8 de Mar.",
+      "rival": "Magallanes",
+      "tipo": "visitante",
+      "resultado_global": "",
+      "resultado_ida": "1 - 1",
+      "resultado_vuelta": "",
+      "ganador": "Empate",
+      "penaltis": false
+    },
+    {
+      "fecha": "S\u00e1b., 4 de Mar.",
+      "rival": "Rionegro \u00c1guilas",
+      "tipo": "local",
+      "resultado_global": "3 - 0",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Independiente Medell\u00edn",
+      "penaltis": false
+    },
+    {
+      "fecha": "Mi\u00e9., 1 de Mar.",
+      "rival": "El Nacional",
+      "tipo": "local",
+      "resultado_global": "4 - 3",
+      "resultado_ida": "2 - 2",
+      "resultado_vuelta": "2 - 1",
+      "ganador": "Independiente Medell\u00edn",
+      "penaltis": false
+    },
+    {
+      "fecha": "Dom., 26 de Feb.",
+      "rival": "Alianza Petrolera",
+      "tipo": "visitante",
+      "resultado_global": "0 - 1",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Independiente Medell\u00edn",
+      "penaltis": false
+    },
+    {
+      "fecha": "Mi\u00e9., 22 de Feb.",
+      "rival": "El Nacional",
+      "tipo": "visitante",
+      "resultado_global": "",
+      "resultado_ida": "2 - 2",
+      "resultado_vuelta": "",
+      "ganador": "Empate",
+      "penaltis": false
+    },
+    {
+      "fecha": "S\u00e1b., 18 de Feb.",
+      "rival": "Am\u00e9rica de Cali",
+      "tipo": "local",
+      "resultado_global": "0 - 1",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Am\u00e9rica de Cali",
+      "penaltis": false
+    },
+    {
+      "fecha": "Mi\u00e9., 15 de Feb.",
+      "rival": "La Equidad",
+      "tipo": "visitante",
+      "resultado_global": "2 - 1",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "La Equidad",
+      "penaltis": false
+    },
+    {
+      "fecha": "S\u00e1b., 11 de Feb.",
+      "rival": "Envigado",
+      "tipo": "visitante",
+      "resultado_global": "2 - 1",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Envigado",
+      "penaltis": false
+    },
+    {
+      "fecha": "S\u00e1b., 4 de Feb.",
+      "rival": "Independiente Santa Fe",
+      "tipo": "local",
+      "resultado_global": "1 - 1",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Empate",
+      "penaltis": false
+    },
+    {
+      "fecha": "Dom., 29 de Ene.",
+      "rival": "Atl\u00e9tico Junior",
+      "tipo": "visitante",
+      "resultado_global": "1 - 1",
+      "resultado_ida": "",
+      "resultado_vuelta": "",
+      "ganador": "Empate",
+      "penaltis": false
+    }
+  ]
+}
