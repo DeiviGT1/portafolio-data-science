@@ -10,18 +10,16 @@ This project involves conducting a study of the characteristics of items that we
 Repositorio completo: [https://github.com/DeiviGT1/prediccion-de-calificacion](https://github.com/DeiviGT1/prediccion-de-calificacion)
 
 
-
 ### 2. 📦 Distribución de Sobrantes
 An analysis project focused on the distribution of excess inventory in supply chain management. This project aims to optimize inventory levels and reduce waste by analyzing surplus distribution patterns.
 
 Complete repository: [https://github.com/DeiviGT1/distribucion_sobrantes](https://github.com/DeiviGT1/distribucion_sobrantes)
 
 
-
 ### 3. 🌐 Web Scraping
 A project demonstrating web scraping techniques to gather data from websites. It includes examples of scraping e-commerce sites, social media, and news websites to extract useful information for analysis.
 
-![image]()
+![image](assets/espn-website.webp)
 
 
 
@@ -29,7 +27,7 @@ A project demonstrating web scraping techniques to gather data from websites. It
 This project is currently under development. It involves fixing dimensional issues in datasets to ensure data quality and consistency. The project aims to provide tools and methods for cleaning and transforming data.
 
 Complete repository: [https://github.com/DeiviGT1/](https://github.com/DeiviGT1/DS)
-![image]()
+![image](assets/dim.jpg)
 
 
 
@@ -37,7 +35,7 @@ Complete repository: [https://github.com/DeiviGT1/](https://github.com/DeiviGT1/
 This project reviews items (clothing) and rates them according to their sales and turnover using the KMeans algorithm. It uses matrices provided by the company to determine these classifications.
 
 Complete repository: [https://github.com/DeiviGT1/kmeans](https://github.com/DeiviGT1/kmeans)
-![image]()
+![image](assets/kmeans.png)
 
 
 
@@ -45,7 +43,7 @@ Complete repository: [https://github.com/DeiviGT1/kmeans](https://github.com/Dei
 This is a university-proposed project that involves working with various algorithms to solve a series of datasets efficiently. The focus is on enhancing existing models, optimizing techniques, and performance benchmarking.
 
 Complete repository: [https://github.com/DeiviGT1/sklearn_analytics](https://github.com/DeiviGT1/sklearn_analytics)
-![image]()
+![image](assets/regresion-multivariada.png)
 
 
 
