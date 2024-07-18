@@ -39,13 +39,18 @@ Complete repository: [https://github.com/DeiviGT1/kmeans](https://github.com/Dei
 
 
 
-### 6. ⚙️ Fix Sklearn Analytics (Work in Progress)
+### 6. ⚙️ Fix Sklearn Analytics
 This is a university-proposed project that involves working with various algorithms to solve a series of datasets efficiently. The focus is on enhancing existing models, optimizing techniques, and performance benchmarking.
 
 Complete repository: [https://github.com/DeiviGT1/sklearn_analytics](https://github.com/DeiviGT1/sklearn_analytics)
 ![image](assets/regresion-multivariada.png)
 
 
+### 7. 📊 Dashboard
+This was an example that I made to show my habilities by managing dashboards, even when I have much more experience using Power BI instead of Tableau but I don't have the licence anymore so for the example I had to use the second one. It's a database with data of Google Play Store downloaded and fixed using Python, also used Postgres to manage the database with SQL and finally imported the data to tableau
+
+Complete repository: [https://github.com/DeiviGT1/portafolio-data-science/tree/master/tableau](https://github.com/DeiviGT1/portafolio-data-science/tree/master/tableau)
+![image](assets/tableau-dashboard.png)
 
 ## How to Use 🛠️
 
